@@ -48,7 +48,7 @@
 <body>
    <div class="container">
         <div class="header">
-            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9ibRLrowSCa4ft2RxwhsPzDw70ey-j8NzZ3g9o-0PbVCr_09F4xkYmql-MuXhOEXhq_5ClTtgUynS_8LMLlBrywwAUSSdC08kcVEtKsXbn7ZXkjtTavX_O2XDFeA4owh1FNnFEaVAKRXlYwVcADv8Yd7cGmA6oAGtWifm1_dpy2QUawEcgBxbt4b_3Y8/s1280/photo_2024-05-19_15-46-55.jpg" alt="Foto Profil">
+            <img src="C:\Users\ACER\OneDrive\Gambar\IMG-20240308-WA0111.jpg" alt="Foto Profil">
             <h1>Nazzwa S. Wulandari</h1>
             <p>Kota Serang , Banten | wulandarinazzwasalshabila@gmail.com | +62 838-4987-2372 </p>
         </div>
@@ -177,7 +177,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Horizontal Rule</title>
             <p>AKADEMI KEPOLISIAN</p>
-            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3pFa1PEuAineFvkmyYU_tTkzFnT-yIwnFD8FoqFYkIDqtjEU0izK9Yl3Onm_Pv6blcQ6octNWmU6JX2alb4r10ruYIuHlTFBBycKKKhTjj4YLUV6GEfC_M8ERSye0kQFht7IfPoxDKDOkGqvkLpkGUbIskJDXVt9kVxQCqHgpSRWjVzYxEy4QFVr29M/s275/download.jpeg" alt="Gambar Proyek">
+            <img src="https://www.google.com/imgres?q=akademi%20kepolisian&imgurl=https%3A%2F%2Fpatriotmuda.id%2Fstorage%2F2020%2F07%2FAkademi-kepolisian-Akpol.jpg&imgrefurl=https%3A%2F%2Fpatriotmuda.id%2Finformasi-lengkap-tentang-jurusan-kuliah-akademi-kepolisian-akpol%2F&docid=WIUJ9AQSEZlF-M&tbnid=sf8eEqFaVZ5aKM&vet=12ahUKEwiL6Ju-5aWGAxV2wzgGHVTCB5QQM3oECGIQAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwiL6Ju-5aWGAxV2wzgGHVTCB5QQM3oECGIQAA" alt="Gambar Proyek">
 <html lang="en">
 <head>
     <meta charset="UTF-8">
