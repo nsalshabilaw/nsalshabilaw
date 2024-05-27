@@ -48,7 +48,7 @@
 <body>
    <div class="container">
         <div class="header">
-            <img src="C:\Users\ACER\OneDrive\Gambar\IMG-20240308-WA0111.jpg" alt="Foto Profil">
+            <img src="IMG-20240308-WA0111.jpg" alt="Foto Profil">
             <h1>Nazzwa S. Wulandari</h1>
             <p>Kota Serang , Banten | wulandarinazzwasalshabila@gmail.com | +62 838-4987-2372 </p>
         </div>
